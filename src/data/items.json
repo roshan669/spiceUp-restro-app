@@ -1,5 +1,115 @@
 [
   {
+    "id": "chk-lolly-pop-h",
+    "name": "Chicken Lolly Pop (Half)",
+    "price": 70,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://i.pinimg.com/originals/30/fd/e8/30fde81c13926aa142eb0384cc6054c8.jpg",
+    "available": true
+  },
+  {
+    "id": "chk-lolly-pop-f",
+    "name": "Chicken Lolly Pop (Full)",
+    "price": 140,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://thumbs.dreamstime.com/b/chicken-lollipop-chicken-winglet-served-tomato-chutney-chinese-preparation-73322351.jpg",
+    "available": true
+  },
+  {
+    "id": "chk-leg-1pc",
+    "name": "Chicken Leg (1 Piece)",
+    "price": 60,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://img.freepik.com/premium-photo/chicken-drumstick-fried-crispyisolated-background_49071-14525.jpg?semt=ais_hybrid&w=740&q=80",
+    "available": true
+  },
+  {
+    "id": "chk-chicken-rice",
+    "name": "Chicken Rice",
+    "price": 80,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://tiffycooks.com/wp-content/uploads/2023/09/A7254715-778C-4D9D-9AC4-D043ECD9EC61-768x1024.jpg",
+    "available": true
+  },
+  {
+    "id": "chk-chicken-noodles",
+    "name": "Chicken Noodles",
+    "price": 80,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://www.allrecipes.com/thmb/qkOOjChonZ9kWikwCMdtIvDYVKs=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/8693474_SpicySoyNoodlesWithChickenNicole4x3-edf275b017a44c85a49131148cfcf4b3.jpg",
+    "available": true
+  },
+  {
+    "id": "chk-manchurian",
+    "name": "Chicken Manchurian",
+    "price": 120,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://thumbs.dreamstime.com/b/chicken-manchurian-savory-indo-chinese-dish-featuring-fried-chicken-chunks-tangy-spicy-soy-based-sauce-vegetables-318940177.jpg",
+    "available": true
+  },
+  {
+    "id": "chk-chilly",
+    "name": "Chicken Chilly",
+    "price": 120,
+    "veg": false,
+    "spicy": 3,
+    "category": "CHICKEN ITEMS",
+    "image": "https://img.freepik.com/premium-psd/close-up-shot-spicy-chicken-wings-bowl_1286917-2399.jpg?semt=ais_hybrid&w=740&q=80",
+    "available": true
+  },
+  {
+    "id": "chk-65-plate",
+    "name": "Chicken 65 (Plate)",
+    "price": 100,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://img.freepik.com/premium-photo/chicken-65-spicy-deep-fried-bar-appetizer-quick-snack-from-india-bowl-plate-white_466689-19780.jpg?semt=ais_hybrid&w=740",
+    "available": true
+  },
+  {
+    "id": "chk-65-250gm",
+    "name": "Chicken 65 (250 gm)",
+    "price": 200,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://img.freepik.com/premium-photo/chicken-65-spicy-deep-fried-bar-appetizer-quick-snack-from-india-bowl-plate-white_466689-19764.jpg?semt=ais_hybrid&w=740&q=80",
+    "available": true
+  },
+  {
+    "id": "chk-65-500gm",
+    "name": "Chicken 65 (500 gm)",
+    "price": 200,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://thumbs.dreamstime.com/b/indian-style-deep-fried-chicken-curry-leaves-spicy-appetizer-lemon-white-background-directly-above-photo-186228857.jpg",
+    "available": true
+  },
+  {
+    "id": "chk-65-1kg",
+    "name": "Chicken 65 (1 kg)",
+    "price": 400,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://myfoodstory.com/wp-content/uploads/2021/05/Chicken-65-Spicy-Crispy-3-300x300.jpg",
+    "available": true
+  },
+  {
     "id": "veg-gobi-manchurian",
     "name": "Gobi Manchurian",
     "price": 60,
@@ -110,116 +220,6 @@
     "spicy": 1,
     "category": "EGG ITEMS",
     "image": "https://i0.wp.com/breakthespicerecipes.com/wp-content/uploads/2023/06/DSC02124_Original-1.jpg?resize=768,1024&ssl=1",
-    "available": true
-  },
-  {
-    "id": "chk-lolly-pop-h",
-    "name": "Chicken Lolly Pop (Half)",
-    "price": 70,
-    "veg": false,
-    "spicy": 1,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,lollipop,indian",
-    "available": true
-  },
-  {
-    "id": "chk-lolly-pop-f",
-    "name": "Chicken Lolly Pop (Full)",
-    "price": 140,
-    "veg": false,
-    "spicy": 1,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,drumettes,fried",
-    "available": true
-  },
-  {
-    "id": "chk-leg-1pc",
-    "name": "Chicken Leg (1 Piece)",
-    "price": 60,
-    "veg": false,
-    "spicy": 1,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,leg,fried",
-    "available": true
-  },
-  {
-    "id": "chk-chicken-rice",
-    "name": "Chicken Rice",
-    "price": 80,
-    "veg": false,
-    "spicy": 1,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,fried,rice",
-    "available": true
-  },
-  {
-    "id": "chk-chicken-noodles",
-    "name": "Chicken Noodles",
-    "price": 80,
-    "veg": false,
-    "spicy": 1,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,noodles",
-    "available": true
-  },
-  {
-    "id": "chk-manchurian",
-    "name": "Chicken Manchurian",
-    "price": 120,
-    "veg": false,
-    "spicy": 2,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,manchurian,asian",
-    "available": true
-  },
-  {
-    "id": "chk-chilly",
-    "name": "Chicken Chilly",
-    "price": 120,
-    "veg": false,
-    "spicy": 3,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,chilli,asian",
-    "available": true
-  },
-  {
-    "id": "chk-65-plate",
-    "name": "Chicken 65 (Plate)",
-    "price": 100,
-    "veg": false,
-    "spicy": 2,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,spicy",
-    "available": true
-  },
-  {
-    "id": "chk-65-250gm",
-    "name": "Chicken 65 (250 gm)",
-    "price": 200,
-    "veg": false,
-    "spicy": 2,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,fried",
-    "available": true
-  },
-  {
-    "id": "chk-65-500gm",
-    "name": "Chicken 65 (500 gm)",
-    "price": 200,
-    "veg": false,
-    "spicy": 2,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,dish",
-    "available": true
-  },
-  {
-    "id": "chk-65-1kg",
-    "name": "Chicken 65 (1 kg)",
-    "price": 400,
-    "veg": false,
-    "spicy": 2,
-    "category": "CHICKEN ITEMS",
-    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,plate",
     "available": true
   }
 ]
