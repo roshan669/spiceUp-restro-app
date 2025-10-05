@@ -80,7 +80,7 @@ export default function MenuItemCard({ item }: { item: MenuItem }) {
       <div className="item-body">
         <div className="item-head">
           <div className="item-title">
-            {item.name}
+            <span className="item-name">{item.name}</span>
             {item.spicy ? (
               <span className={`chip chip-spice-${item.spicy}`}>
                 🌶{item.spicy}
