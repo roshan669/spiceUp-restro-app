@@ -1,225 +1,225 @@
 [
-    {
-        "id": "veg-gobi-manchurian",
-        "name": "Gobi Manchurian",
-        "price": 60,
-        "veg": true,
-        "spicy": 2,
-        "category": "VEG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?gobi,manchurian,indian,food",
-        "available": true
-    },
-    {
-        "id": "veg-gobi-65",
-        "name": "Gobi 65",
-        "price": 60,
-        "veg": true,
-        "spicy": 2,
-        "category": "VEG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?cauliflower,65,indian,food",
-        "available": true
-    },
-    {
-        "id": "veg-gobi-rice",
-        "name": "Gobi Rice",
-        "price": 40,
-        "veg": true,
-        "spicy": 1,
-        "category": "VEG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?fried,rice,vegetarian,indian",
-        "available": true
-    },
-    {
-        "id": "veg-gobi-noodles",
-        "name": "Gobi Noodles",
-        "price": 40,
-        "veg": true,
-        "spicy": 1,
-        "category": "VEG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?noodles,vegetarian,asian",
-        "available": true
-    },
-    {
-        "id": "veg-veg-rice",
-        "name": "Veg Rice",
-        "price": 40,
-        "veg": true,
-        "category": "VEG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?veg,fried,rice,food",
-        "available": true
-    },
-    {
-        "id": "veg-veg-noodles",
-        "name": "Veg Noodles",
-        "price": 40,
-        "veg": true,
-        "category": "VEG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?veg,noodles,food",
-        "available": true
-    },
-    {
-        "id": "egg-egg-rice",
-        "name": "Egg Rice",
-        "price": 40,
-        "veg": false,
-        "category": "EGG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?egg,fried,rice",
-        "available": true
-    },
-    {
-        "id": "egg-omelet-double",
-        "name": "Omelet Double",
-        "price": 40,
-        "veg": false,
-        "category": "EGG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?omelette,eggs,breakfast",
-        "available": true
-    },
-    {
-        "id": "egg-omelet-single",
-        "name": "Omelet Single",
-        "price": 20,
-        "veg": false,
-        "category": "EGG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?omelette,eggs",
-        "available": true
-    },
-    {
-        "id": "egg-half-fry-double",
-        "name": "Egg Half Fry Double",
-        "price": 30,
-        "veg": false,
-        "category": "EGG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?sunny,side,up,eggs",
-        "available": true
-    },
-    {
-        "id": "egg-half-fry-single",
-        "name": "Egg Half Fry Single",
-        "price": 20,
-        "veg": false,
-        "category": "EGG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?fried,egg",
-        "available": true
-    },
-    {
-        "id": "egg-egg-noodles",
-        "name": "Egg Noodles",
-        "price": 40,
-        "veg": false,
-        "spicy": 1,
-        "category": "EGG ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?egg,noodles",
-        "available": true
-    },
-    {
-        "id": "chk-lolly-pop-h",
-        "name": "Chicken Lolly Pop (Half)",
-        "price": 70,
-        "veg": false,
-        "spicy": 1,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,lollipop,indian",
-        "available": true
-    },
-    {
-        "id": "chk-lolly-pop-f",
-        "name": "Chicken Lolly Pop (Full)",
-        "price": 140,
-        "veg": false,
-        "spicy": 1,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,drumettes,fried",
-        "available": true
-    },
-    {
-        "id": "chk-leg-1pc",
-        "name": "Chicken Leg (1 Piece)",
-        "price": 60,
-        "veg": false,
-        "spicy": 1,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,leg,fried",
-        "available": true
-    },
-    {
-        "id": "chk-chicken-rice",
-        "name": "Chicken Rice",
-        "price": 80,
-        "veg": false,
-        "spicy": 1,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,fried,rice",
-        "available": true
-    },
-    {
-        "id": "chk-chicken-noodles",
-        "name": "Chicken Noodles",
-        "price": 80,
-        "veg": false,
-        "spicy": 1,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,noodles",
-        "available": true
-    },
-    {
-        "id": "chk-manchurian",
-        "name": "Chicken Manchurian",
-        "price": 120,
-        "veg": false,
-        "spicy": 2,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,manchurian,asian",
-        "available": true
-    },
-    {
-        "id": "chk-chilly",
-        "name": "Chicken Chilly",
-        "price": 120,
-        "veg": false,
-        "spicy": 3,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,chilli,asian",
-        "available": true
-    },
-    {
-        "id": "chk-65-plate",
-        "name": "Chicken 65 (Plate)",
-        "price": 100,
-        "veg": false,
-        "spicy": 2,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,65,spicy",
-        "available": true
-    },
-    {
-        "id": "chk-65-250gm",
-        "name": "Chicken 65 (250 gm)",
-        "price": 200,
-        "veg": false,
-        "spicy": 2,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,65,fried",
-        "available": true
-    },
-    {
-        "id": "chk-65-500gm",
-        "name": "Chicken 65 (500 gm)",
-        "price": 200,
-        "veg": false,
-        "spicy": 2,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,65,dish",
-        "available": true
-    },
-    {
-        "id": "chk-65-1kg",
-        "name": "Chicken 65 (1 kg)",
-        "price": 400,
-        "veg": false,
-        "spicy": 2,
-        "category": "CHICKEN ITEMS",
-        "image": "https://source.unsplash.com/featured/400x300/?chicken,65,plate",
-        "available": true
-    }
+  {
+    "id": "veg-gobi-manchurian",
+    "name": "Gobi Manchurian",
+    "price": 60,
+    "veg": true,
+    "spicy": 2,
+    "category": "VEG ITEMS",
+    "image": "https://images.pexels.com/photos/28674543/pexels-photo-28674543.jpeg",
+    "available": true
+  },
+  {
+    "id": "veg-gobi-65",
+    "name": "Gobi 65",
+    "price": 60,
+    "veg": true,
+    "spicy": 2,
+    "category": "VEG ITEMS",
+    "image": "https://t3.ftcdn.net/jpg/10/64/74/82/360_F_1064748225_vls6VYuaUCcT467HlGqEFVAVp3b8eKtk.webp",
+    "available": true
+  },
+  {
+    "id": "veg-gobi-rice",
+    "name": "Gobi Rice",
+    "price": 40,
+    "veg": true,
+    "spicy": 1,
+    "category": "VEG ITEMS",
+    "image": "https://i0.wp.com/cookingfromheart.com/wp-content/uploads/2021/10/Gobi-Fried-Rice-1.jpg?resize=720,481&ssl=1",
+    "available": true
+  },
+  {
+    "id": "veg-gobi-noodles",
+    "name": "Gobi Noodles",
+    "price": 40,
+    "veg": true,
+    "spicy": 1,
+    "category": "VEG ITEMS",
+    "image": "https://img.cdnx.in/336545/SKU-0131_0-1717508231705.jpg?width=600&format=webp",
+    "available": true
+  },
+  {
+    "id": "veg-veg-rice",
+    "name": "Veg Rice",
+    "price": 40,
+    "veg": true,
+    "category": "VEG ITEMS",
+    "image": "https://www.shutterstock.com/image-photo/veg-biryani-pulav-fried-rice-260nw-1939396075.jpg",
+    "available": true
+  },
+  {
+    "id": "veg-veg-noodles",
+    "name": "Veg Noodles",
+    "price": 40,
+    "veg": true,
+    "category": "VEG ITEMS",
+    "image": "https://media.istockphoto.com/id/1292638226/photo/schezwan-veg-noodles-a-popular-indo-chinese-dish-made-with-noodles-vegetables-and-schezwan.jpg?s=612x612&w=0&k=20&c=xWr6_JflgmmaIp5FSb9Vz6fn0VVUd-sRGMYS4ha2fH4=",
+    "available": true
+  },
+  {
+    "id": "egg-egg-rice",
+    "name": "Egg Rice",
+    "price": 40,
+    "veg": false,
+    "category": "EGG ITEMS",
+    "image": "https://images.pexels.com/photos/8992927/pexels-photo-8992927.jpeg",
+    "available": true
+  },
+  {
+    "id": "egg-omelet-double",
+    "name": "Omelet Double",
+    "price": 40,
+    "veg": false,
+    "category": "EGG ITEMS",
+    "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
+    "available": true
+  },
+  {
+    "id": "egg-omelet-single",
+    "name": "Omelet Single",
+    "price": 20,
+    "veg": false,
+    "category": "EGG ITEMS",
+    "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
+    "available": true
+  },
+  {
+    "id": "egg-half-fry-double",
+    "name": "Egg Half Fry Double",
+    "price": 30,
+    "veg": false,
+    "category": "EGG ITEMS",
+    "image": "https://media.istockphoto.com/id/601403972/photo/fried-eggs-on-white-background.jpg?s=612x612&w=0&k=20&c=e7XJ3-byJ69EMY00q85aV8yMBM9--a4YSQryENLp94s=",
+    "available": true
+  },
+  {
+    "id": "egg-half-fry-single",
+    "name": "Egg Half Fry Single",
+    "price": 20,
+    "veg": false,
+    "category": "EGG ITEMS",
+    "image": "https://i.pinimg.com/originals/1b/e6/7f/1be67fb2e5f376f400c74047fef0b264.jpg",
+    "available": true
+  },
+  {
+    "id": "egg-egg-noodles",
+    "name": "Egg Noodles",
+    "price": 40,
+    "veg": false,
+    "spicy": 1,
+    "category": "EGG ITEMS",
+    "image": "https://i0.wp.com/breakthespicerecipes.com/wp-content/uploads/2023/06/DSC02124_Original-1.jpg?resize=768,1024&ssl=1",
+    "available": true
+  },
+  {
+    "id": "chk-lolly-pop-h",
+    "name": "Chicken Lolly Pop (Half)",
+    "price": 70,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,lollipop,indian",
+    "available": true
+  },
+  {
+    "id": "chk-lolly-pop-f",
+    "name": "Chicken Lolly Pop (Full)",
+    "price": 140,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,drumettes,fried",
+    "available": true
+  },
+  {
+    "id": "chk-leg-1pc",
+    "name": "Chicken Leg (1 Piece)",
+    "price": 60,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,leg,fried",
+    "available": true
+  },
+  {
+    "id": "chk-chicken-rice",
+    "name": "Chicken Rice",
+    "price": 80,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,fried,rice",
+    "available": true
+  },
+  {
+    "id": "chk-chicken-noodles",
+    "name": "Chicken Noodles",
+    "price": 80,
+    "veg": false,
+    "spicy": 1,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,noodles",
+    "available": true
+  },
+  {
+    "id": "chk-manchurian",
+    "name": "Chicken Manchurian",
+    "price": 120,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,manchurian,asian",
+    "available": true
+  },
+  {
+    "id": "chk-chilly",
+    "name": "Chicken Chilly",
+    "price": 120,
+    "veg": false,
+    "spicy": 3,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,chilli,asian",
+    "available": true
+  },
+  {
+    "id": "chk-65-plate",
+    "name": "Chicken 65 (Plate)",
+    "price": 100,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,spicy",
+    "available": true
+  },
+  {
+    "id": "chk-65-250gm",
+    "name": "Chicken 65 (250 gm)",
+    "price": 200,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,fried",
+    "available": true
+  },
+  {
+    "id": "chk-65-500gm",
+    "name": "Chicken 65 (500 gm)",
+    "price": 200,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,dish",
+    "available": true
+  },
+  {
+    "id": "chk-65-1kg",
+    "name": "Chicken 65 (1 kg)",
+    "price": 400,
+    "veg": false,
+    "spicy": 2,
+    "category": "CHICKEN ITEMS",
+    "image": "https://source.unsplash.com/featured/400x300/?chicken,65,plate",
+    "available": true
+  }
 ]
