@@ -5,9 +5,10 @@
     "price": 70,
     "veg": false,
     "spicy": 1,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://i.pinimg.com/originals/30/fd/e8/30fde81c13926aa142eb0384cc6054c8.jpg",
-    "available": true
+    "available": true,
+    "description": "Crispy fried chicken lollipops with tangy sauce."
   },
   {
     "id": "chk-lolly-pop-f",
@@ -15,9 +16,10 @@
     "price": 140,
     "veg": false,
     "spicy": 1,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://thumbs.dreamstime.com/b/chicken-lollipop-chicken-winglet-served-tomato-chutney-chinese-preparation-73322351.jpg",
-    "available": true
+    "available": true,
+    "description": "Crispy chicken lollipops, full plate for sharing."
   },
   {
     "id": "chk-leg-1pc",
@@ -25,9 +27,10 @@
     "price": 60,
     "veg": false,
     "spicy": 1,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://img.freepik.com/premium-photo/chicken-drumstick-fried-crispyisolated-background_49071-14525.jpg?semt=ais_hybrid&w=740&q=80",
-    "available": true
+    "available": true,
+    "description": "Juicy fried chicken leg with house spice."
   },
   {
     "id": "chk-chicken-rice",
@@ -35,9 +38,10 @@
     "price": 80,
     "veg": false,
     "spicy": 1,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://tiffycooks.com/wp-content/uploads/2023/09/A7254715-778C-4D9D-9AC4-D043ECD9EC61-768x1024.jpg",
-    "available": true
+    "available": true,
+    "description": "Fragrant fried rice tossed with chicken."
   },
   {
     "id": "chk-chicken-noodles",
@@ -45,9 +49,10 @@
     "price": 80,
     "veg": false,
     "spicy": 1,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://www.allrecipes.com/thmb/qkOOjChonZ9kWikwCMdtIvDYVKs=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/8693474_SpicySoyNoodlesWithChickenNicole4x3-edf275b017a44c85a49131148cfcf4b3.jpg",
-    "available": true
+    "available": true,
+    "description": "Stir-fried noodles with chicken and veggies."
   },
   {
     "id": "chk-manchurian",
@@ -55,9 +60,10 @@
     "price": 120,
     "veg": false,
     "spicy": 2,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://thumbs.dreamstime.com/b/chicken-manchurian-savory-indo-chinese-dish-featuring-fried-chicken-chunks-tangy-spicy-soy-based-sauce-vegetables-318940177.jpg",
-    "available": true
+    "available": true,
+    "description": "Fried chicken in a spicy, tangy Manchurian sauce."
   },
   {
     "id": "chk-chilly",
@@ -65,9 +71,10 @@
     "price": 120,
     "veg": false,
     "spicy": 3,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://img.freepik.com/premium-psd/close-up-shot-spicy-chicken-wings-bowl_1286917-2399.jpg?semt=ais_hybrid&w=740&q=80",
-    "available": true
+    "available": true,
+    "description": "Spicy chilli chicken with peppers and onions."
   },
   {
     "id": "chk-65-plate",
@@ -75,9 +82,10 @@
     "price": 100,
     "veg": false,
     "spicy": 2,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://img.freepik.com/premium-photo/chicken-65-spicy-deep-fried-bar-appetizer-quick-snack-from-india-bowl-plate-white_466689-19780.jpg?semt=ais_hybrid&w=740",
-    "available": true
+    "available": true,
+    "description": "Classic Chicken 65—crispy, spicy bite-sized pieces."
   },
   {
     "id": "chk-65-250gm",
@@ -85,9 +93,10 @@
     "price": 200,
     "veg": false,
     "spicy": 2,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://img.freepik.com/premium-photo/chicken-65-spicy-deep-fried-bar-appetizer-quick-snack-from-india-bowl-plate-white_466689-19764.jpg?semt=ais_hybrid&w=740&q=80",
-    "available": true
+    "available": true,
+    "description": "Quarter kilo of crispy, spicy Chicken 65."
   },
   {
     "id": "chk-65-500gm",
@@ -95,9 +104,10 @@
     "price": 200,
     "veg": false,
     "spicy": 2,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://thumbs.dreamstime.com/b/indian-style-deep-fried-chicken-curry-leaves-spicy-appetizer-lemon-white-background-directly-above-photo-186228857.jpg",
-    "available": true
+    "available": true,
+    "description": "Half kilo of our signature Chicken 65."
   },
   {
     "id": "chk-65-1kg",
@@ -105,9 +115,10 @@
     "price": 400,
     "veg": false,
     "spicy": 2,
-    "category": "CHICKEN ITEMS",
+    "category": "CHICKEN MENU",
     "image": "https://myfoodstory.com/wp-content/uploads/2021/05/Chicken-65-Spicy-Crispy-3-300x300.jpg",
-    "available": true
+    "available": true,
+    "description": "One kilo party pack of Chicken 65."
   },
   {
     "id": "veg-gobi-manchurian",
@@ -115,9 +126,10 @@
     "price": 60,
     "veg": true,
     "spicy": 2,
-    "category": "VEG ITEMS",
+    "category": "VEG MENU",
     "image": "https://images.pexels.com/photos/28674543/pexels-photo-28674543.jpeg",
-    "available": true
+    "available": true,
+    "description": "Crispy gobi tossed in tangy Manchurian sauce."
   },
   {
     "id": "veg-gobi-65",
@@ -125,9 +137,10 @@
     "price": 60,
     "veg": true,
     "spicy": 2,
-    "category": "VEG ITEMS",
+    "category": "VEG MENU",
     "image": "https://t3.ftcdn.net/jpg/10/64/74/82/360_F_1064748225_vls6VYuaUCcT467HlGqEFVAVp3b8eKtk.webp",
-    "available": true
+    "available": true,
+    "description": "Crispy cauliflower fritters with 65 masala."
   },
   {
     "id": "veg-gobi-rice",
@@ -135,9 +148,10 @@
     "price": 40,
     "veg": true,
     "spicy": 1,
-    "category": "VEG ITEMS",
+    "category": "VEG MENU",
     "image": "https://i0.wp.com/cookingfromheart.com/wp-content/uploads/2021/10/Gobi-Fried-Rice-1.jpg?resize=720,481&ssl=1",
-    "available": true
+    "available": true,
+    "description": "Fried rice with crunchy gobi and spices."
   },
   {
     "id": "veg-gobi-noodles",
@@ -145,72 +159,80 @@
     "price": 40,
     "veg": true,
     "spicy": 1,
-    "category": "VEG ITEMS",
+    "category": "VEG MENU",
     "image": "https://img.cdnx.in/336545/SKU-0131_0-1717508231705.jpg?width=600&format=webp",
-    "available": true
+    "available": true,
+    "description": "Veg noodles tossed with fried gobi."
   },
   {
     "id": "veg-veg-rice",
     "name": "Veg Rice",
     "price": 40,
     "veg": true,
-    "category": "VEG ITEMS",
+    "category": "VEG MENU",
     "image": "https://www.shutterstock.com/image-photo/veg-biryani-pulav-fried-rice-260nw-1939396075.jpg",
-    "available": true
+    "available": true,
+    "description": "Comforting veg fried rice with mixed veggies."
   },
   {
     "id": "veg-veg-noodles",
     "name": "Veg Noodles",
     "price": 40,
     "veg": true,
-    "category": "VEG ITEMS",
+    "category": "VEG MENU",
     "image": "https://media.istockphoto.com/id/1292638226/photo/schezwan-veg-noodles-a-popular-indo-chinese-dish-made-with-noodles-vegetables-and-schezwan.jpg?s=612x612&w=0&k=20&c=xWr6_JflgmmaIp5FSb9Vz6fn0VVUd-sRGMYS4ha2fH4=",
-    "available": true
+    "available": true,
+    "description": "Stir-fried veg noodles with soy and garlic."
   },
   {
     "id": "egg-egg-rice",
     "name": "Egg Rice",
     "price": 40,
     "veg": false,
-    "category": "EGG ITEMS",
+    "category": "EGG MENU",
     "image": "https://images.pexels.com/photos/8992927/pexels-photo-8992927.jpeg",
-    "available": true
+    "available": true,
+    "description": "Wok-tossed fried rice with eggs and scallions."
   },
   {
     "id": "egg-omelet-double",
     "name": "Omelet Double",
     "price": 40,
     "veg": false,
-    "category": "EGG ITEMS",
+    "category": "EGG MENU",
     "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
-    "available": true
+    "available": true,
+    "description": "Fluffy double egg omelet, lightly spiced."
   },
   {
     "id": "egg-omelet-single",
     "name": "Omelet Single",
     "price": 20,
     "veg": false,
-    "category": "EGG ITEMS",
+    "category": "EGG MENU",
     "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
-    "available": true
+    "available": true,
+    "description": "Classic single egg omelet, soft and buttery."
   },
   {
     "id": "egg-half-fry-double",
     "name": "Egg Half Fry Double",
     "price": 30,
     "veg": false,
-    "category": "EGG ITEMS",
+    "category": "EGG MENU",
     "image": "https://media.istockphoto.com/id/601403972/photo/fried-eggs-on-white-background.jpg?s=612x612&w=0&k=20&c=e7XJ3-byJ69EMY00q85aV8yMBM9--a4YSQryENLp94s=",
-    "available": true
+    "available": true,
+    "description": "Two sunny side up eggs, runny yolks."
   },
   {
     "id": "egg-half-fry-single",
     "name": "Egg Half Fry Single",
     "price": 20,
     "veg": false,
-    "category": "EGG ITEMS",
+    "category": "EGG MENU",
     "image": "https://i.pinimg.com/originals/1b/e6/7f/1be67fb2e5f376f400c74047fef0b264.jpg",
-    "available": true
+    "available": true,
+    "description": "Single sunny side up egg, soft yolk."
   },
   {
     "id": "egg-egg-noodles",
@@ -218,8 +240,9 @@
     "price": 40,
     "veg": false,
     "spicy": 1,
-    "category": "EGG ITEMS",
+    "category": "EGG MENU",
     "image": "https://i0.wp.com/breakthespicerecipes.com/wp-content/uploads/2023/06/DSC02124_Original-1.jpg?resize=768,1024&ssl=1",
-    "available": true
+    "available": true,
+    "description": "Egg noodles stir-fried with veggies and sauce."
   }
 ]

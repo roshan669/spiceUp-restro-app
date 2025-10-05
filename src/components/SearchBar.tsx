@@ -9,7 +9,7 @@ export default function SearchBar({
     <input
       aria-label="Search menu"
       className="input"
-      placeholder="Search burgers, wraps, fries..."
+      placeholder="Search chiken rice, egg..."
       value={query}
       onChange={(e) => onChange(e.target.value)}
     />

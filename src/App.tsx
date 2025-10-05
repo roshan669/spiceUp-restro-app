@@ -9,6 +9,7 @@ import SearchBar from "./components/SearchBar.tsx";
 import CategoryFilter from "./components/CategoryFilter.tsx";
 import MenuGrid from "./components/MenuGrid.tsx";
 import CartDrawer from "./components/CartDrawer.tsx";
+import SkeletonGrid from "./components/SkeletonGrid.tsx";
 
 function AppShell() {
   const [query, setQuery] = useState("");
@@ -46,18 +47,18 @@ function AppShell() {
               "All",
               ...(categories && categories.length
                 ? categories
-                : ["VEG ITEMS", "EGG ITEMS", "CHICKEN ITEMS"]),
+                : ["CHICKEN MENU", "VEG MENU", "EGG MENU"]),
             ]}
             value={category}
             onChange={setCategory}
           />
         </div>
         {loading ? (
-          <p className="muted">Loading menu…</p>
+          <SkeletonGrid count={8} />
         ) : error ? (
           <p className="muted">Failed to load remote menu. Showing defaults.</p>
         ) : null}
-        <MenuGrid items={filtered} />
+        {!loading && <MenuGrid items={filtered} />}
       </main>
       <CartDrawer open={isOpen} />
     </div>

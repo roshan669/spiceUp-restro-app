@@ -1,6 +1,8 @@
 import type { MenuItem } from "../data/menu";
 import { useCart } from "../context/cart";
 import { useRef } from "react";
+import vegIcon from "../assets/veg.svg";
+import nonvegIcon from "../assets/nonveg.svg";
 
 export default function MenuItemCard({ item }: { item: MenuItem }) {
   const { add } = useCart();
@@ -82,15 +84,15 @@ export default function MenuItemCard({ item }: { item: MenuItem }) {
           <div className="item-title">
             <span className="item-name">{item.name}</span>
             {item.spicy ? (
-              <span className={`chip chip-spice-${item.spicy}`}>
-                🌶{item.spicy}
-              </span>
+              <span className={`chip chip-spice-${item.spicy}`}>🌶</span>
             ) : null}
-            {item.veg ? (
-              <span className="chip chip-veg">VEG</span>
-            ) : (
-              <span className="chip chip-nonveg">NON-VEG</span>
-            )}
+            <img
+              src={item.veg ? vegIcon : nonvegIcon}
+              alt={item.veg ? "Vegetarian" : "Non-Vegetarian"}
+              className="diet-icon"
+              width={16}
+              height={16}
+            />
           </div>
           <div className="item-price">₹{item.price}</div>
         </div>

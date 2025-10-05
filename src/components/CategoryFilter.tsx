@@ -1,3 +1,6 @@
+import vegIcon from "../assets/veg.svg";
+import nonvegIcon from "../assets/nonveg.svg";
+
 export default function CategoryFilter({
   categories,
   value,
@@ -20,7 +23,16 @@ export default function CategoryFilter({
             className={`seg-button${active ? " active" : ""}`}
             onClick={() => onChange(c)}
           >
-            {c}
+            {c}{" "}
+            {c !== "All" && (
+              <img
+                src={c.includes("VEG") ? vegIcon : nonvegIcon}
+                alt={c.includes("VEG") ? "Vegetarian" : "Non-Vegetarian"}
+                className="diet-icon"
+                width={16}
+                height={16}
+              />
+            )}
           </button>
         );
       })}
