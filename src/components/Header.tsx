@@ -23,6 +23,7 @@ export default function Header({ onCartClick }: { onCartClick?: () => void }) {
       <div className="container header-row">
         <div className="brand">
           <span className="brand-accent">Spice</span> Up
+          <logoIcon />
         </div>
 
         <button

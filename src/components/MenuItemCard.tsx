@@ -1,16 +1,27 @@
 import type { MenuItem } from "../data/menu";
 import { useCart } from "../context/cart";
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import vegIcon from "../assets/veg.svg";
 import nonvegIcon from "../assets/nonveg.svg";
 
 export default function MenuItemCard({ item }: { item: MenuItem }) {
   const { add } = useCart();
   const imgRef = useRef<HTMLImageElement | null>(null);
+  const isLollipop = item.id.startsWith("chk-lolly-pop");
+  const [variant, setVariant] = useState<"Dry" | "Gravy">("Dry");
 
   function handleAdd() {
+    // For Chicken Lolly Pop, append variant to id/name so cart treats them separately
+    const toAdd: MenuItem = isLollipop
+      ? {
+          ...item,
+          id: `${item.id}__${variant.toLowerCase()}`,
+          name: `${item.name} - ${variant}`,
+        }
+      : item;
+
     // Add to cart first for instant feedback
-    add(item);
+    add(toAdd);
 
     // Fly-to-cart animation
     const source = imgRef.current;
@@ -99,13 +110,35 @@ export default function MenuItemCard({ item }: { item: MenuItem }) {
         {item.description ? (
           <p className="item-desc">{item.description}</p>
         ) : null}
-        <button
-          className="btn add-btn"
-          onClick={handleAdd}
-          disabled={item.available === false}
-        >
-          Add
-        </button>
+        {isLollipop ? (
+          <div className="item-actions">
+            <select
+              className="select"
+              value={variant}
+              onChange={(e) => setVariant(e.target.value as "Dry" | "Gravy")}
+              aria-label="Preparation style"
+              disabled={item.available === false}
+            >
+              <option value="Dry">Dry</option>
+              <option value="Gravy">Gravy</option>
+            </select>
+            <button
+              className="btn add-btn"
+              onClick={handleAdd}
+              disabled={item.available === false}
+            >
+              Add
+            </button>
+          </div>
+        ) : (
+          <button
+            className="btn add-btn"
+            onClick={handleAdd}
+            disabled={item.available === false}
+          >
+            Add
+          </button>
+        )}
       </div>
     </div>
   );

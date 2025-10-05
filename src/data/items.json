@@ -1,7 +1,7 @@
 [
   {
     "id": "chk-lolly-pop-h",
-    "name": "Chicken Lolly Pop (Half)",
+    "name": "Chicken Lolly Pop (2 Piece)",
     "price": 70,
     "veg": false,
     "spicy": 1,
@@ -12,7 +12,7 @@
   },
   {
     "id": "chk-lolly-pop-f",
-    "name": "Chicken Lolly Pop (Full)",
+    "name": "Chicken Lolly Pop (4 Piece)",
     "price": 140,
     "veg": false,
     "spicy": 1,

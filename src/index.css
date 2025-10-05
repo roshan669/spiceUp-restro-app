@@ -273,6 +273,21 @@ body {
   transform: translateY(1px) scale(0.98);
   filter: brightness(0.95);
 }
+.item-actions {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
+  align-items: center;
+  margin-top: auto;
+}
+.item-actions .select {
+  width: auto;
+  min-width: 120px;
+}
+.item-actions .add-btn {
+  width: auto;
+  margin-top: 0;
+}
 .icon {
   background: var(--card);
   border: 1px solid var(--border);
