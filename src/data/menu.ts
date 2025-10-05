@@ -1,0 +1,51 @@
+export type Category =
+    | 'VEG ITEMS'
+    | 'EGG ITEMS'
+    | 'CHICKEN ITEMS'
+
+export type MenuItem = {
+    id: string
+    name: string
+    description?: string
+    price: number
+    spicy?: 0 | 1 | 2 | 3
+    veg?: boolean
+    image?: string
+    category: Category
+    available?: boolean
+}
+
+export const menu: MenuItem[] = [
+    // VEG ITEMS
+    { id: 'veg-gobi-manchurian', name: 'Gobi Manchurian', price: 50, veg: true, spicy: 2, category: 'VEG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?gobi,manchurian,indian,food', available: true },
+    { id: 'veg-gobi-65', name: 'Gobi 65', price: 50, veg: true, spicy: 2, category: 'VEG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?cauliflower,65,indian,food', available: true },
+    { id: 'veg-gobi-rice', name: 'Gobi Rice', price: 30, veg: true, spicy: 1, category: 'VEG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?fried,rice,vegetarian,indian', available: true },
+    { id: 'veg-gobi-noodles', name: 'Gobi Noodles', price: 30, veg: true, spicy: 1, category: 'VEG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?noodles,vegetarian,asian', available: true },
+    { id: 'veg-veg-rice', name: 'Veg Rice', price: 30, veg: true, category: 'VEG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?veg,fried,rice,food', available: true },
+    { id: 'veg-veg-noodles', name: 'Veg Noodles', price: 30, veg: true, category: 'VEG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?veg,noodles,food', available: true },
+
+    // EGG ITEMS
+    { id: 'egg-egg-rice', name: 'Egg Rice', price: 30, veg: false, category: 'EGG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?egg,fried,rice', available: true },
+    { id: 'egg-omelet-double', name: 'Omelet Double', price: 30, veg: false, category: 'EGG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?omelette,eggs,breakfast', available: true },
+    { id: 'egg-omelet-single', name: 'Omelet Single', price: 20, veg: false, category: 'EGG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?omelette,eggs', available: true },
+    { id: 'egg-half-fry-double', name: 'Egg Half Fry Double', price: 30, veg: false, category: 'EGG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?sunny,side,up,eggs', available: true },
+    { id: 'egg-half-fry-single', name: 'Egg Half Fry Single', price: 20, veg: false, category: 'EGG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?fried,egg', available: true },
+    { id: 'egg-egg-noodles', name: 'Egg Noodles', price: 40, veg: false, spicy: 1, category: 'EGG ITEMS', image: 'https://source.unsplash.com/featured/400x300/?egg,noodles', available: true },
+
+    // CHICKEN ITEMS
+    { id: 'chk-lolly-pop-h', name: 'Chicken Lolly Pop (Half)', price: 60, veg: false, spicy: 1, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,lollipop,indian', available: true },
+    { id: 'chk-lolly-pop-f', name: 'Chicken Lolly Pop (Full)', price: 120, veg: false, spicy: 1, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,drumettes,fried', available: true },
+    { id: 'chk-leg-1pc', name: 'Chicken Leg (1 Piece)', price: 50, veg: false, spicy: 1, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,leg,fried', available: true },
+    { id: 'chk-chicken-rice', name: 'Chicken Rice', price: 70, veg: false, spicy: 1, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,fried,rice', available: true },
+    { id: 'chk-chicken-noodles', name: 'Chicken Noodles', price: 70, veg: false, spicy: 1, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,noodles', available: true },
+    { id: 'chk-manchurian', name: 'Chicken Manchurian', price: 100, veg: false, spicy: 2, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,manchurian,asian', available: true },
+    { id: 'chk-chilly', name: 'Chicken Chilly', price: 100, veg: false, spicy: 3, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,chilli,asian', available: true },
+    { id: 'chk-65-plate', name: 'Chicken 65 (Plate)', price: 100, veg: false, spicy: 2, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,65,spicy', available: true },
+    { id: 'chk-65-250gm', name: 'Chicken 65 (250 gm)', price: 200, veg: false, spicy: 2, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,65,fried', available: true },
+    { id: 'chk-65-500gm', name: 'Chicken 65 (500 gm)', price: 200, veg: false, spicy: 2, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,65,dish', available: true },
+    { id: 'chk-65-1kg', name: 'Chicken 65 (1 kg)', price: 400, veg: false, spicy: 2, category: 'CHICKEN ITEMS', image: 'https://source.unsplash.com/featured/400x300/?chicken,65,plate', available: true },
+]
+
+export const categories = Array.from(
+    new Set(menu.map((m) => m.category))
+) as Category[]

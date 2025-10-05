@@ -1,0 +1,4 @@
+/* App layout container overrides if needed */
+.app {
+  min-height: 100%;
+}
