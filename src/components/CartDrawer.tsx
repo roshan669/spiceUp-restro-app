@@ -60,7 +60,9 @@ export default function CartDrawer({ open }: { open: boolean }) {
           </button>
           <button
             className="btn primary"
-            onClick={() => alert("Order placed! This is a demo.")}
+            onClick={() =>
+              alert("Placing order feature will be available soon...")
+            }
             disabled={state.lines.length === 0}
           >
             Checkout
