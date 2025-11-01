@@ -68,7 +68,7 @@
   {
     "id": "chk-chilly",
     "name": "Chicken Chilly",
-    "price": 120,
+    "price": 140,
     "veg": false,
     "spicy": 3,
     "category": "CHICKEN MENU",
@@ -79,7 +79,7 @@
   {
     "id": "chk-65-plate",
     "name": "Chicken 65 (Plate)",
-    "price": 100,
+    "price": 60,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
@@ -90,7 +90,7 @@
   {
     "id": "chk-65-250gm",
     "name": "Chicken 65 (250 gm)",
-    "price": 200,
+    "price": 100,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
@@ -145,7 +145,7 @@
   {
     "id": "veg-gobi-rice",
     "name": "Gobi Rice",
-    "price": 40,
+    "price": 60,
     "veg": true,
     "spicy": 1,
     "category": "VEG MENU",
@@ -156,7 +156,7 @@
   {
     "id": "veg-gobi-noodles",
     "name": "Gobi Noodles",
-    "price": 40,
+    "price": 60,
     "veg": true,
     "spicy": 1,
     "category": "VEG MENU",
@@ -197,7 +197,7 @@
   {
     "id": "egg-omelet-double",
     "name": "Omelet Double",
-    "price": 40,
+    "price": 30,
     "veg": false,
     "category": "EGG MENU",
     "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
@@ -237,11 +237,22 @@
   {
     "id": "egg-egg-noodles",
     "name": "Egg Noodles",
-    "price": 40,
+    "price": 50,
     "veg": false,
     "spicy": 1,
     "category": "EGG MENU",
     "image": "https://i0.wp.com/breakthespicerecipes.com/wp-content/uploads/2023/06/DSC02124_Original-1.jpg?resize=768,1024&ssl=1",
+    "available": true,
+    "description": "Egg noodles stir-fried with veggies and sauce."
+  },
+  {
+    "id": "egg-egg-boiled",
+    "name": "Egg Boiled",
+    "price": 10,
+    "veg": false,
+    "spicy": 1,
+    "category": "EGG MENU",
+    "image": "https://imgs.search.brave.com/Z0mpK5rJvkX-PV7bLfE3pYA0FAS9ydYCSLKFRLMCVdc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5zcGlyZWR0YXN0/ZS5uZXQvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTEvMTIvSG93/LXRvLUNvb2stSGFy/ZC1Cb2lsZWQtRWdn/cy0zLTEyMDAuanBn",
     "available": true,
     "description": "Egg noodles stir-fried with veggies and sauce."
   }
