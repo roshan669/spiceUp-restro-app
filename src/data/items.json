@@ -57,7 +57,7 @@
   {
     "id": "chk-manchurian",
     "name": "Chicken Manchurian",
-    "price": 120,
+    "price": 140,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
