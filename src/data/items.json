@@ -197,7 +197,7 @@
   {
     "id": "egg-omelet-double",
     "name": "Omelet Double",
-    "price": 30,
+    "price": 40,
     "veg": false,
     "category": "EGG MENU",
     "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
@@ -217,7 +217,7 @@
   {
     "id": "egg-half-fry-double",
     "name": "Egg Half Fry Double",
-    "price": 30,
+    "price": 40,
     "veg": false,
     "category": "EGG MENU",
     "image": "https://media.istockphoto.com/id/601403972/photo/fried-eggs-on-white-background.jpg?s=612x612&w=0&k=20&c=e7XJ3-byJ69EMY00q85aV8yMBM9--a4YSQryENLp94s=",
@@ -247,7 +247,7 @@
   },
   {
     "id": "egg-egg-boiled",
-    "name": "Egg Boiled",
+    "name": "❌Egg Boiled(Not available)",
     "price": 10,
     "veg": false,
     "spicy": 1,
