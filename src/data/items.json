@@ -2,7 +2,7 @@
   {
     "id": "chk-lolly-pop-h",
     "name": "Chicken Lolly Pop (2 Piece)",
-    "price": 70,
+    "price": 80,
     "veg": false,
     "spicy": 1,
     "category": "CHICKEN MENU",
@@ -13,7 +13,7 @@
   {
     "id": "chk-lolly-pop-f",
     "name": "Chicken Lolly Pop (4 Piece)",
-    "price": 140,
+    "price": 160,
     "veg": false,
     "spicy": 1,
     "category": "CHICKEN MENU",
@@ -22,20 +22,9 @@
     "description": "Crispy chicken lollipops, full plate for sharing."
   },
   {
-    "id": "chk-leg-1pc",
-    "name": "Chicken Leg (1 Piece)",
-    "price": 60,
-    "veg": false,
-    "spicy": 1,
-    "category": "CHICKEN MENU",
-    "image": "https://img.freepik.com/premium-photo/chicken-drumstick-fried-crispyisolated-background_49071-14525.jpg?semt=ais_hybrid&w=740&q=80",
-    "available": true,
-    "description": "Juicy fried chicken leg with house spice."
-  },
-  {
     "id": "chk-chicken-rice",
     "name": "Chicken Rice",
-    "price": 80,
+    "price": 100,
     "veg": false,
     "spicy": 1,
     "category": "CHICKEN MENU",
@@ -46,7 +35,7 @@
   {
     "id": "chk-chicken-noodles",
     "name": "Chicken Noodles",
-    "price": 80,
+    "price": 100,
     "veg": false,
     "spicy": 1,
     "category": "CHICKEN MENU",
@@ -57,7 +46,7 @@
   {
     "id": "chk-manchurian",
     "name": "Chicken Manchurian",
-    "price": 140,
+    "price": 160,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
@@ -68,7 +57,7 @@
   {
     "id": "chk-chilly",
     "name": "Chicken Chilly",
-    "price": 140,
+    "price": 160,
     "veg": false,
     "spicy": 3,
     "category": "CHICKEN MENU",
@@ -79,7 +68,7 @@
   {
     "id": "chk-65-plate",
     "name": "Chicken 65 (Plate)",
-    "price": 60,
+    "price": 70,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
@@ -90,7 +79,7 @@
   {
     "id": "chk-65-250gm",
     "name": "Chicken 65 (250 gm)",
-    "price": 100,
+    "price": 120,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
@@ -101,7 +90,7 @@
   {
     "id": "chk-65-500gm",
     "name": "Chicken 65 (500 gm)",
-    "price": 200,
+    "price": 240,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
@@ -112,7 +101,7 @@
   {
     "id": "chk-65-1kg",
     "name": "Chicken 65 (1 kg)",
-    "price": 400,
+    "price": 460,
     "veg": false,
     "spicy": 2,
     "category": "CHICKEN MENU",
@@ -123,7 +112,7 @@
   {
     "id": "veg-gobi-manchurian",
     "name": "Gobi Manchurian",
-    "price": 60,
+    "price": 70,
     "veg": true,
     "spicy": 2,
     "category": "VEG MENU",
@@ -134,7 +123,7 @@
   {
     "id": "veg-gobi-65",
     "name": "Gobi 65",
-    "price": 60,
+    "price": 70,
     "veg": true,
     "spicy": 2,
     "category": "VEG MENU",
@@ -145,7 +134,7 @@
   {
     "id": "veg-gobi-rice",
     "name": "Gobi Rice",
-    "price": 60,
+    "price": 70,
     "veg": true,
     "spicy": 1,
     "category": "VEG MENU",
@@ -156,7 +145,7 @@
   {
     "id": "veg-gobi-noodles",
     "name": "Gobi Noodles",
-    "price": 60,
+    "price": 70,
     "veg": true,
     "spicy": 1,
     "category": "VEG MENU",
@@ -167,7 +156,7 @@
   {
     "id": "veg-veg-rice",
     "name": "Veg Rice",
-    "price": 40,
+    "price": 50,
     "veg": true,
     "category": "VEG MENU",
     "image": "https://www.shutterstock.com/image-photo/veg-biryani-pulav-fried-rice-260nw-1939396075.jpg",
@@ -177,7 +166,7 @@
   {
     "id": "veg-veg-noodles",
     "name": "Veg Noodles",
-    "price": 40,
+    "price": 50,
     "veg": true,
     "category": "VEG MENU",
     "image": "https://media.istockphoto.com/id/1292638226/photo/schezwan-veg-noodles-a-popular-indo-chinese-dish-made-with-noodles-vegetables-and-schezwan.jpg?s=612x612&w=0&k=20&c=xWr6_JflgmmaIp5FSb9Vz6fn0VVUd-sRGMYS4ha2fH4=",
@@ -187,7 +176,7 @@
   {
     "id": "egg-egg-rice",
     "name": "Egg Rice",
-    "price": 40,
+    "price": 50,
     "veg": false,
     "category": "EGG MENU",
     "image": "https://images.pexels.com/photos/8992927/pexels-photo-8992927.jpeg",
@@ -207,7 +196,7 @@
   {
     "id": "egg-omelet-single",
     "name": "Omelet Single",
-    "price": 20,
+    "price": 25,
     "veg": false,
     "category": "EGG MENU",
     "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
@@ -227,7 +216,7 @@
   {
     "id": "egg-half-fry-single",
     "name": "Egg Half Fry Single",
-    "price": 20,
+    "price": 25,
     "veg": false,
     "category": "EGG MENU",
     "image": "https://i.pinimg.com/originals/1b/e6/7f/1be67fb2e5f376f400c74047fef0b264.jpg",
@@ -237,23 +226,12 @@
   {
     "id": "egg-egg-noodles",
     "name": "Egg Noodles",
-    "price": 50,
+    "price": 60,
     "veg": false,
     "spicy": 1,
     "category": "EGG MENU",
     "image": "https://i0.wp.com/breakthespicerecipes.com/wp-content/uploads/2023/06/DSC02124_Original-1.jpg?resize=768,1024&ssl=1",
     "available": true,
     "description": "Egg noodles stir-fried with veggies and sauce."
-  },
-  {
-    "id": "egg-egg-boiled",
-    "name": "❌Egg Boiled(Not available)",
-    "price": 10,
-    "veg": false,
-    "spicy": 1,
-    "category": "EGG MENU",
-    "image": "https://imgs.search.brave.com/Z0mpK5rJvkX-PV7bLfE3pYA0FAS9ydYCSLKFRLMCVdc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5zcGlyZWR0YXN0/ZS5uZXQvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTEvMTIvSG93/LXRvLUNvb2stSGFy/ZC1Cb2lsZWQtRWdn/cy0zLTEyMDAuanBn",
-    "available": true,
-    "description": "Egg boiled with spices."
   }
 ]
